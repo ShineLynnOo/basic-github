@@ -1,0 +1,3 @@
+This text file is about basic
+## Testing 
+This is example for text on local computer
